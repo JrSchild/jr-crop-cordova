@@ -1,7 +1,7 @@
 {
-  "name": "ionic-project",
+  "name": "jr-crop-cordova",
   "version": "1.1.1",
-  "description": "An Ionic project",
+  "description": "An example cordova application for the jr-crop library.",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
